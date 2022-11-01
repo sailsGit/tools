@@ -1,3 +1,5 @@
 # tools
 python tools
-修改域名 sub_domain 的第10行 domain="xxx.xxx"
+依赖
+pip requests threading queen bs4 re os json time sys UserAgent
+
